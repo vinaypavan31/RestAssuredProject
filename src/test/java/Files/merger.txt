@@ -1,5 +1,7 @@
 🌍 Countries
-
+Newzealand
+Peru
+Chile
 India
 United States
 United Kingdom
@@ -7,9 +9,7 @@ Australia
 Canada
 Germany
 France
-Japan
-Brazil
-South Africa
+
 
 
 🏙️ Cities
