@@ -24,3 +24,7 @@ Paris
 Tokyo
 Rio de Janeiro
 Cape Town
+Mumbai
+Hyderabad
+Cairo
+Baroda
